@@ -1,4 +1,4 @@
-framework module MTGSDK {
+framework module TrackingIOSDK {
     umbrella header "Tracking.h"
 
     export *
